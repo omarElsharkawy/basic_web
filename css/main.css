@@ -10,7 +10,9 @@ header {
   position: fixed;
   height: 75px;
 }
-
+header h1 {
+  text-align: center;
+}
 /* NAV STYLES */
 nav {
   text-align: right;
