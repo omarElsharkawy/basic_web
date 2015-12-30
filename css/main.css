@@ -1,0 +1,30 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+/* HEADER STYLES */
+header {
+  top: 0;
+  left: 0;
+  right: 0;
+  position: fixed;
+  height: 75px;
+}
+
+/* NAV STYLES */
+nav {
+  text-align: right;
+}
+nav ul {
+
+}
+nav li {
+  display: inline-block;
+}
+nav a {
+
+}
+/* FOOTER STYLES */
+footer {
+
+}
