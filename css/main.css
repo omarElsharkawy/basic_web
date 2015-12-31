@@ -1,14 +1,14 @@
-section div {
-  background: lightgrey;
-  border-bottom: 3px solid grey;
+.post {
+  background: #bfbfbf;
+  border-bottom: 3px solid #333;
   max-width: 80%; }
-  section div h2 {
+  .post h2 {
     text-align: center; }
-  section div img {
-    clear: both;
-    width: 80%;
-    margin: 0 , auto; }
-  section div p {
+  .post img {
+    width: 40%;
+    margin: 0 , auto;
+    margin: 5px 5%; }
+  .post p {
     text-align: left;
     margin: 0 0 0 5px; }
 
