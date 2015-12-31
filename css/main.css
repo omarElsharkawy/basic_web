@@ -1,3 +1,15 @@
-
+section div {
+  background: lightgrey;
+  border-bottom: 3px solid grey;
+  max-width: 80%; }
+  section div h2 {
+    text-align: center; }
+  section div img {
+    clear: both;
+    width: 80%;
+    margin: 0 , auto; }
+  section div p {
+    text-align: left;
+    margin: 0 0 0 5px; }
 
 /*# sourceMappingURL=main.css.map */
